@@ -85,7 +85,7 @@
 			<key>allowCellularPlanModification</key>
 			<true/>
 			<key>allowChat</key>
-			<true/>
+			<false/>
 			<key>allowCloudBackup</key>
 			<true/>
 			<key>allowCloudDocumentSync</key>
@@ -123,11 +123,11 @@
 			<key>allowExplicitContent</key>
 			<true/>
 			<key>allowFindMyCar</key>
-			<true/>
+			<false/>
 			<key>allowFindMyDevice</key>
-			<true/>
+			<false/>
 			<key>allowFindMyFriends</key>
-			<true/>
+			<false/>
 			<key>allowFindMyFriendsModification</key>
 			<true/>
 			<key>allowFingerprintForContactlessPayment</key>
